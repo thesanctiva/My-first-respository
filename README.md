@@ -27,7 +27,11 @@ This project uses a **synthetically generated financial dataset** containing **5
 ## 🛠️ Tools Used
 
 - **SQL Server**: For storing, managing, and querying the financial data efficiently using SQL.
-- **Microsoft Excel**: To create, view, and manipulate raw financial data and perform initial exploratory analysis.
+- **Microsoft Excel**: To create, view, and manipulate raw financial data and perform initial exploratory analysis. [Download Here](https://www.microsoft.com)
+    - For Data Collection
+    - For Data Cleaning
+       1. Data Manipulation
+       2. Data Munching
+      
 - **Power BI**: To build interactive and insightful dashboards that visualize financial trends and summaries.
 - **MS Power Point**: For Presentation.
-- **Git & GitHub**: For version control and collaborative project management.
