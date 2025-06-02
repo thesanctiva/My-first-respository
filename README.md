@@ -79,16 +79,13 @@ The analysis leverages SQL queries, Excel pivot tables, and Power BI visualizati
 SELECT A,B,C
 WHERE A> 15
 
-
-
-### Analysis
-**BOLD**
-*ITALICS*
-
-
+```
+###ANALYSIS
+***BOLD**
+*ITALIC*
 
 
 
 
-
+![7a2106f54c5d47369e3be5f43beb4e30](https://github.com/user-attachments/assets/fe9c578f-9114-4d74-b72e-2d5d133595ea)
 
