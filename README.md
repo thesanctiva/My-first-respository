@@ -79,3 +79,10 @@ The analysis leverages SQL queries, Excel pivot tables, and Power BI visualizati
 SELECT A,B,C
 WHERE A> 15
 
+### Analysis
+
+
+
+
+
+
