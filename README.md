@@ -61,3 +61,21 @@ Initial exploratory data analysis was performed to understand the underlying pat
 - **Data Visualization:** Used charts like histograms, bar charts, and line graphs in Excel and Power BI to gain insights and guide further analysis.
 
 This foundational analysis informs the design of dashboards and deeper statistical models within the project.
+
+## 📈 Data Analysis
+
+The core data analysis focuses on extracting actionable insights from the financial dataset to support better financial decision-making:
+
+- **Income vs Expenses Comparison:** Evaluated overall and monthly income against expenses to track cash flow health.
+- **Category-wise Spending Analysis:** Identified major expense categories and monitored spending patterns to highlight cost-saving opportunities.
+- **Trend Analysis:** Analyzed financial trends over time, spotting growth or decline in income streams and expense categories.
+- **Budget Variance Analysis:** Compared actual expenses to planned budgets to assess adherence and highlight discrepancies.
+- **Forecasting:** Utilized historical data to project future income and expenses, aiding in budgeting and financial planning.
+- **Anomaly Detection:** Flagged unusual transactions or outliers for further review to prevent errors or fraud.
+
+The analysis leverages SQL queries, Excel pivot tables, and Power BI visualizations to provide a comprehensive financial overview.
+
+``` SQL
+SELECT A,B,C
+WHERE A> 15
+
